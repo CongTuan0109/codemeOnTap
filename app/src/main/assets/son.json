@@ -1,0 +1,17 @@
+{
+  "Sinhviens":
+          [
+            {
+              "ten": "A","namsinh": 1999,"lop": "08DHTH1"
+            },
+            {
+              "ten": "B","namsinh": 1998,"lop": "08DHTH2"
+            },
+            {
+              "ten": "C","namsinh": 2000,"lop": "08DHTH3"
+            },
+            {
+              "ten": "D","namsinh": 2001,"lop": "08DHTH4"
+            }
+          ]
+}
