@@ -9,6 +9,22 @@ public class SinhVien {
     private String ten;
     private int tuoi;
 
+    public SinhVien(String ten, int tuoi, String lop) {
+        this.ten = ten;
+        this.tuoi = tuoi;
+        this.lop = lop;
+    }
+
+    public String getLop() {
+        return lop;
+    }
+
+    public void setLop(String lop) {
+        this.lop = lop;
+    }
+
+    private String lop;
+
     public String getTen() {
         return ten;
     }

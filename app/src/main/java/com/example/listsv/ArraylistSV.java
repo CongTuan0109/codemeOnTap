@@ -4,8 +4,12 @@ import java.util.ArrayList;
 
 public class ArraylistSV {
     ArrayList<SinhVien> dssv=new ArrayList<>();
-    public ArraylistSV(ArrayList<SinhVien> dssv) {
-        this.dssv = dssv;
+    public ArraylistSV() {
+
+    }
+    public void addSinhVien(SinhVien sv)
+    {
+        dssv.add(sv);
     }
 
     public ArrayList<SinhVien> LayDSSV(){
